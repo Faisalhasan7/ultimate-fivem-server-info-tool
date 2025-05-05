@@ -15,3 +15,4 @@ This Bash script allows you to monitor the latency, player count, and server inf
 - **`jq`**: A lightweight and flexible command-line JSON processor. Install using:
   ```bash
   sudo apt install jq
+
